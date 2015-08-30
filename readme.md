@@ -1,31 +1,15 @@
-Description
-=====================
-Violetto color scheme for Komodo 9.
-##How to install
-* Super Easy method (only for Komodo 9.2+): Install Violetto via Package Manager
-* Easy method: Dran'n'drop `Violetto.ksf` onto your Komodo window
-* Hard method: find your Komodo profile folder and drop `Violetto.ksf` into `schemes/` folder
+![Screenshot](screenshot.png)
 
-##Screenshots
+This is a color preset for the [Tabula Rasa] skin.
 
-(note: in the screenshots I have used [TabulaRasa skin](http://komodoide.com/packages/skins/tabula-rasa/) with `violetto-tabularasa.json` color preset, you can download it from the latest release)
+## Installation and Usage
 
-* HTML
+ * install [Tabula Rasa]
+ * Go to Preferences > Appearance
+ * Select the "Tabula Rasa" skin and Iconset
+ * Hit the "Import" button under "Skin Colors"
+ * Select the file you downloaded here and press Ok
 
-![HTML](screens/html.png)
+For best results I've included the Violetto color scheme, which was the `July2015MonthlyFlavour` color scheme previously.
 
-* CSS
-
-![CSS](screens/css.png)
-
-* JavaScript
-
-![JS](screens/js.png)
-
-* CoffeeScript
-
-![CoffeeScript](screens/cs.png)
-
-* PHP
-
-![PHP](screens/php.png)
+   [Tabula Rasa]: http://komodoide.com/packages/skins/tabula-rasa/
